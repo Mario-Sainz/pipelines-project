@@ -5,7 +5,9 @@ Este proyecto esta hecho a partir de un dataset de TripAdvisor sobre restaurante
 #### Limpieza
 
 1- Limpiar el dataset.
+
 2- Transformar la Api, en un dataset y limpiarlo.
+
 3- Juntar ambos datasets para lograr un dataset más completo.
 
 
@@ -13,4 +15,4 @@ Este proyecto esta hecho a partir de un dataset de TripAdvisor sobre restaurante
 
 En este proyecto, mi próposito era encontrar la ciudad que más restaurantes tuviese con reseñas en TripAdvisor, ver las puntuaciones de la gente con respecto a esos restaurantes y si en esa ciudad los restaurantes eran baratos o caros.
 
-Para lograr todo esto, he realizado unas gráficas donde se aprecian y se resuelven mis dudas.
+Para lograr todo esto, he realizado unas gráficas. En la primera se aprecia la ciudad con mas restaurantes en TripAdvisor, en la segunda gráfica se aprecia las calificaciones de esos restaurantes y en la tercera el precio de esos restaurantes.
