@@ -1,0 +1,14 @@
+,Name,City,Rating,Cuisine_style
+0,Osha Thai Noodle Cafe,America/Los_Angeles,4.0,"[{'key': '10660', 'name': 'Thai'}, {'key': '10642', 'name': 'Cafe'}]"
+1,Mersea Restaurant & Bar,America/Los_Angeles,5.0,"[{'key': '9908', 'name': 'American'}, {'key': '10640', 'name': 'Bar'}, {'key': '10665', 'name': 'Vegetarian Friendly'}, {'key': '10697', 'name': 'Vegan Options'}, {'key': '10992', 'name': 'Gluten Free Options'}]"
+2,Geoff of Ichido,America/Los_Angeles,5.0,"[{'key': '5473', 'name': 'Japanese'}, {'key': '10643', 'name': 'Seafood'}, {'key': '10659', 'name': 'Asian'}]"
+3,Don of The Bimini Twist,America/Los_Angeles,5.0,"[{'key': '5473', 'name': 'Japanese'}, {'key': '9908', 'name': 'American'}, {'key': '10643', 'name': 'Seafood'}]"
+4,Mitchell's Ice Cream,America/Los_Angeles,5.0,"[{'key': '9908', 'name': 'American'}]"
+5,Acme Bread,America/Los_Angeles,4.5,"[{'key': '10665', 'name': 'Vegetarian Friendly'}, {'key': '10697', 'name': 'Vegan Options'}]"
+6,Reed and Greenough,America/Los_Angeles,4.5,"[{'key': '9908', 'name': 'American'}]"
+7,La Farine Bakery,America/Los_Angeles,4.5,[]
+8,Cafe De Casa,America/Los_Angeles,4.5,"[{'key': '10348', 'name': 'Brazilian'}, {'key': '10642', 'name': 'Cafe'}, {'key': '10665', 'name': 'Vegetarian Friendly'}, {'key': '10697', 'name': 'Vegan Options'}, {'key': '10992', 'name': 'Gluten Free Options'}]"
+9,Eight Am,America/Los_Angeles,4.5,"[{'key': '9908', 'name': 'American'}, {'key': '10642', 'name': 'Cafe'}, {'key': '10665', 'name': 'Vegetarian Friendly'}, {'key': '10697', 'name': 'Vegan Options'}, {'key': '10992', 'name': 'Gluten Free Options'}]"
+10,B. Patisserie,America/Los_Angeles,4.5,"[{'key': '10642', 'name': 'Cafe'}, {'key': '10665', 'name': 'Vegetarian Friendly'}, {'key': '10697', 'name': 'Vegan Options'}]"
+11,Tacorea,America/Los_Angeles,4.5,"[{'key': '5110', 'name': 'Mexican'}, {'key': '10646', 'name': 'Fast Food'}, {'key': '10665', 'name': 'Vegetarian Friendly'}]"
+12,The New Spot On Polk,America/Los_Angeles,4.5,[]
